@@ -1,4 +1,4 @@
-## Travler
+## Traveler
 
 Traveler helps you organize a trip or vacation by places you will visit, all in a very stylish manner. Create a trip, and then start adding landmarks, restaurants, bars, and other places you would like to go to.
 
