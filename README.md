@@ -7,7 +7,7 @@ Traveler helps you organize a trip or vacation by places you will visit, all in 
 In creating this app, I wanted to help keep your travel itinerary all in one place. Partly inspired by the New York Times weekly travel guide 36 hours, I thought it would be helpful to create your own travel itinerary and make organizing your trip all the more easier.
 
 ## Demo Video
-![Preview](https://drive.google.com/file/d/1UVb88Zmxip1VkYEaFU5dcW9mmjfiKWTi/view)
+https://drive.google.com/file/d/1UVb88Zmxip1VkYEaFU5dcW9mmjfiKWTi/view?usp=sharing
 
 ## Tech/framework used
 
