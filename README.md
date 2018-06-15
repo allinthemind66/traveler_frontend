@@ -9,6 +9,9 @@ In creating this app, I wanted to help keep your travel itinerary all in one pla
 ## Demo Video
 https://drive.google.com/file/d/1UVb88Zmxip1VkYEaFU5dcW9mmjfiKWTi/view?usp=sharing
 
+## Link To Backend Repository
+https://github.com/allinthemind66/gig_hunter_backend
+
 ## Tech/framework used
 
 <b>Built with</b>
